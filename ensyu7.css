@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.blog{
+  height: 400px;
+  width: 100%;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.blog-heading{
+padding: 20px;
+color: gray;
+}
+
+main{
+  width: 840px;
+  margin: 50px auto;
+}
+
+.blog-box1{
+  padding:0 0 30px 0;
+  border-bottom: 1px solid gray;
+  color: gray;
+}
+
+.blog-box2{
+  padding: 30px 0;
+  border-bottom: 1px solid gray;
+  color: gray;
+}
+
+.blog-box3{
+  padding: 30px 0;
+  border-bottom: 1px solid gray;
+  color: gray;
+}
+
+.blog-box4{
+  padding: 30px 0;
+  border-bottom: 1px solid gray;
+  color: gray;
+}
